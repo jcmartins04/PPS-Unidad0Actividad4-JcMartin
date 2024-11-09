@@ -1,0 +1,5 @@
+# Ignorar archivos con extensión .txt
+*.txt
+
+# Ignorar el directorio Excluded
+excluded/
