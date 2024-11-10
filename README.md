@@ -171,7 +171,7 @@ git push -u origin main
 6. Muestro los logs de las modificaciones realizadas en el último día
 `git log --since=2.days`
 
-![](imagenes/PPS_25_logpretty2_pracitice4.png)
+![](imagenes/PPS_25_logpretty2_practice4.png)
 
 ## Ramas
 
@@ -191,4 +191,4 @@ git push -u origin main
 
 
 
-## Fin de la práctia
+## Fin de la práctica
