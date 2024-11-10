@@ -187,7 +187,11 @@ git push -u origin main
 
 ![](imagenes/PPS_20_2Branch_practice4.png)
 
-4. Sube los cambios al respositorio remoto a la rama Vers1 `git push origin Vers1` (En este caso podemos ver cómo el index.html de la rama `m̀ain` y `Vers1` son diferentes.
+4. Subo los cambios al respositorio remoto a la rama Vers1 `git push origin Vers1` (En este caso podemos ver cómo el index.html de la rama `m̀ain` y `Vers1` son diferentes.
+
+![](imagenes/PPS_26_main_practice4.png)
+
+![](imagenes/PPS_27_Vers1_practice4.png)
 
 
 
